@@ -1932,6 +1932,7 @@ It supports limited I/O operations.
 
 ## What is the difference between persist() and cache() functions in Apache Spark?
 In Apache Spark, the persist() function is used to allow the user to specify the storage level, whereas the cache() function uses the default storage level.
+Refer: https://sparkbyexamples.com/spark/spark-difference-between-cache-and-persist/
 
 [Table of Contents](#Apache-Spark)
 
